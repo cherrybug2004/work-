@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title= "FILMES" subgroup-title= "DUBLADO", Família Addams 1 (1991)
+#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzSzOX1uCPswiqVk4nrLJk9CgRs-bee-fVrFtZLsIRYcpAqSqkuaJS8TU&s=10" group-title= "FILMES DUBLADOS" subgroup-title= "COMEDIA", Família Addams 1 (1991)
 https://media.publit.io/file/Fam-lia-Addams-1991-Dual-udio-Legenda-by-CaiuDrive.mp4
+
+#EXTINF:-1 tvg-logo= "" group-title= "FILMES DUBLADOS" subgroup-title= "COMEDIA", A Família Addams 2
+https://media.publit.io/file/Fam-lia-Addams-2-Dual-udio-CaiuDrive.mp4
