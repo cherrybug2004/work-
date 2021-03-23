@@ -1,7 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzSzOX1uCPswiqVk4nrLJk9CgRs-bee-fVrFtZLsIRYcpAqSqkuaJS8TU&s=10" group-title= "FILMES DUBLADOS" subgroup-title= "FILMES COMEDIA", Família Addams 1 (1991)
+#EXTINF:-1 tvg-logo= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzSzOX1uCPswiqVk4nrLJk9CgRs-bee-fVrFtZLsIRYcpAqSqkuaJS8TU&s=10" group-title= "DUBLADO" subgroup-title= "COMEDIA" subgroup-title= "FILMES"
+", Família Addams 1 (1991)
 https://media.publit.io/file/Fam-lia-Addams-1991-Dual-udio-Legenda-by-CaiuDrive.mp4
 
-#EXTINF:-1 tvg-logo= "https://br.web.img3.acsta.net/medias/nmedia/18/90/43/55/20096430.jpg" group-title= "FILMES DUBLADOS" subgroup-title= "FILMES COMEDIA", A Família Addams 2
+#EXTINF:-1 tvg-logo= "https://br.web.img3.acsta.net/medias/nmedia/18/90/43/55/20096430.jpg" group-title= "DUBLADO" subgroup-title= "COMEDIA" subgroup-title= "FILMES", A Família Addams 2
 https://media.publit.io/file/Fam-lia-Addams-2-Dual-udio-CaiuDrive.mp4
+
+#EXTINF:-1 tvg-logo= "" group-title= "SÉRIES LEGENDADO" subgroup-title= "911 Lone Star" subgroup-title= "DRAMA", 1x1 Legal
+https://media.publit.io/file/911-Lone-St4r-1x1-Legendado-by-CaiuDrive.mp4
